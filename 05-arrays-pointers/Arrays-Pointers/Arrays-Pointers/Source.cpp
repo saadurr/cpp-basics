@@ -1,4 +1,5 @@
 #include <iostream>
+#include <array>
 
 int main()
 {
@@ -20,6 +21,11 @@ int main()
 	// Creating arrays on heap memory
 	int* heapArr = new int[5];
 	delete[] heapArr;
+
+	// For C++ 11 and higher versions:
+	std::array<int, 5> newArr;
+	for (int i = 0; i < newArr.size(); i++)
+		newArr[i] = 0;
 
 	return 0;
 }
