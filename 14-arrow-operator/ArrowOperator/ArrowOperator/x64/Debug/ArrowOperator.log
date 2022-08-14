@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\root\github\cpp-basics\14-arrow-operator\ArrowOperator\ArrowOperator\Source.cpp(55,44): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+D:\root\github\cpp-basics\14-arrow-operator\ArrowOperator\ArrowOperator\Source.cpp(55,44): warning C4302: 'type cast': truncation from 'float *' to 'int'
+D:\root\github\cpp-basics\14-arrow-operator\ArrowOperator\ArrowOperator\Source.cpp(58,39): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+D:\root\github\cpp-basics\14-arrow-operator\ArrowOperator\ArrowOperator\Source.cpp(58,39): warning C4302: 'type cast': truncation from 'float *' to 'int'
+D:\root\github\cpp-basics\14-arrow-operator\ArrowOperator\ArrowOperator\Source.cpp(61,39): warning C4311: 'type cast': pointer truncation from 'float *' to 'int'
+D:\root\github\cpp-basics\14-arrow-operator\ArrowOperator\ArrowOperator\Source.cpp(61,39): warning C4302: 'type cast': truncation from 'float *' to 'int'
+  ArrowOperator.vcxproj -> D:\root\github\cpp-basics\14-arrow-operator\ArrowOperator\x64\Debug\ArrowOperator.exe
