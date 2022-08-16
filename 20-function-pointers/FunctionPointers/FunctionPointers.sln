@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunctionPointers", "FunctionPointers\FunctionPointers.vcxproj", "{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}.Debug|x64.ActiveCfg = Debug|x64
+		{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}.Debug|x64.Build.0 = Debug|x64
+		{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}.Debug|x86.Build.0 = Debug|Win32
+		{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}.Release|x64.ActiveCfg = Release|x64
+		{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}.Release|x64.Build.0 = Release|x64
+		{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}.Release|x86.ActiveCfg = Release|Win32
+		{ACD3DB4F-C51D-4B80-A8FB-B456A3F26EF4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBD6AAFC-32C1-446C-90A9-C68383AC8CB3}
+	EndGlobalSection
+EndGlobal
