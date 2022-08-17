@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TypePunning", "TypePunning\TypePunning.vcxproj", "{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}.Debug|x64.ActiveCfg = Debug|x64
+		{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}.Debug|x64.Build.0 = Debug|x64
+		{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}.Debug|x86.ActiveCfg = Debug|Win32
+		{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}.Debug|x86.Build.0 = Debug|Win32
+		{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}.Release|x64.ActiveCfg = Release|x64
+		{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}.Release|x64.Build.0 = Release|x64
+		{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}.Release|x86.ActiveCfg = Release|Win32
+		{25137676-1B2F-482F-AC13-AD7CB8BB5CA4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {482E29F1-F2D5-4591-9DE5-F75C41004872}
+	EndGlobalSection
+EndGlobal
