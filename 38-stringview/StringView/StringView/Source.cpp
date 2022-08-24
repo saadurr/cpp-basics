@@ -28,15 +28,15 @@ void PrintString(std::string_view str)
 
 int main()
 {
-	
+	std::string name = "Saad Rehman";
 #if 0
 	std::string name = "Saad Rehman"; // if this is made const char* name then it will lead to zero allocations
 	std::string fName = name.substr(0, 4);
 	std::string lName = name.substr(5, 9);
 #else
-	const char* name = "Saad Rehman";
-	std::string_view fName(name, 4);
-	std::string_view lName(name+5, 9);
+	//const char* name = "Saad Rehman";
+	std::string_view fName(name.c_str(), 4);
+	std::string_view lName(name.c_str() + 5, 9);
 #endif
 	PrintString(fName);
 	PrintString(lName);
