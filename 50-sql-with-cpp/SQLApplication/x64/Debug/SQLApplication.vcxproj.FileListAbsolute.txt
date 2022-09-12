@@ -1,0 +1,1 @@
+D:\root\github\cpp-basics\50-sql-with-cpp\SQLApplication\x64\Debug\SQLApplication.exe
